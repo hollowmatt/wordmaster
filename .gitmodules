@@ -1,0 +1,3 @@
+[submodule "wordfront"]
+	path = wordfront
+	url = git@github.com:hollowmatt/wordfront
